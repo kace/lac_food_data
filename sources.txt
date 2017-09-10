@@ -1,0 +1,8 @@
+# score explanations
+http://publichealth.lacounty.gov/eh/misc/ehpost.htm
+
+# la data
+https://data.lacounty.gov/
+
+# US data
+https://www.data.gov/
