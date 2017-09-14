@@ -1,9 +1,9 @@
 lac_food_data
 =============
 
-A simple project that aims to make interesting observations from [LA County] [1] data and displaying them using [pandas] [2].
+A simple project that aims to make interesting observations from [LA County][1] data and displaying them using [pandas][2].
 
-[1]: https://data.lacounty.gov/ "LA County"
+[1]: https://data.lacounty.gov/	"LA County"
 [2]: http://pandas.pydata.org/  "pandas"
 
 Useful References
