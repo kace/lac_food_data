@@ -11,5 +11,7 @@ A simple project that aims to make interesting observations from [LA County][1] 
 Resources
 ---------
 [Inspection Score Explanations](http://publichealth.lacounty.gov/eh/misc/ehpost.htm)
+
 [LAC Data](https://data.lacounty.gov)
+
 [US data](https://www.data.gov/)
