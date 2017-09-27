@@ -56,3 +56,14 @@ def pullSource():
 #for entry in csv:
 #    food.append({k:entry[k] for k in keys}
 #    food += ['VIOLATIONS'](sorted({entry['VIOLATION CODE DESCRIPTION'] for entry in csv if rec['RECORD ID'] == 'PR0002167' }))
+
+
+
+# An example of grouping
+'''
+import collections
+by_year = collections.defaultdict(Counter)
+for rec in food:
+    by_year[rec['ACTIVITY DATE'][-4:]][rec['NAME'].upper().replace("'","").strip()] += 1
+by_year['2016'].most_common(10)
+'''
