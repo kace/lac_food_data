@@ -35,6 +35,8 @@ def pullSource():
 ## An example of grouping violations from multiple rows into one list. To be added to each distinct dict. 
 #food[0]['VIOLATIONS']=(sorted({entry['VIOLATION CODE DESCRIPTION'] for entry in csv if entry['RECORD ID'] == food[0]['RECORD ID'] }))
 
+# WIP
+# ({(k,entry[k]) for k in keys for entry in csv})
 
 
 # An example of grouping
